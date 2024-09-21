@@ -1,0 +1,14 @@
+{
+  "name": "7.6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gleb Laychenkov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.14.2"
+  }
+}
