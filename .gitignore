@@ -32,6 +32,9 @@ out/
 
 ### VS Code ###
 .vscode/
+profile.json
+users.json
+screenshots/
 
 ### Package Files ###
 *.jar
